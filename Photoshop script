@@ -40,6 +40,7 @@ executeAction( idAdobeScriptAutomationScripts, desc4, DialogModes.NO );
 var idmakeFrameAnimation = stringIDToTypeID( "makeFrameAnimation" );
 executeAction( idmakeFrameAnimation, undefined, DialogModes.NO );
 
+
 // =======================================================
 var idslct = charIDToTypeID( "slct" );
     var desc5 = new ActionDescriptor();
